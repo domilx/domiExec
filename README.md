@@ -13,7 +13,7 @@ Why should cheaters have to pay to get a decent cheat? domiExecutor is completel
 
 Downloading and Installing domiExecutor onto your computer is quite simple, simply follow the steps listed bellow.
   
-  &nbsp;&nbsp;1.) Go to the [Download](https://cdn.discordapp.com/attachments/928275005580673095/929182658452398151/domiExec.zip) (Is always up-to-date) 
+  &nbsp;&nbsp;1.) Go to the [Download](https://direct-link.net/386945/domiexecutor2) (Is always up-to-date) 
   
   &nbsp;&nbsp;2.) Extract the ZIP Archive onto your Desktop  
   
