@@ -3,6 +3,16 @@
 ![Language](https://img.shields.io/badge/language-C%23-blue)
 ![Framework](https://img.shields.io/badge/framework-WinForm%20.NET-blue)
 
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('domidev', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Tip Me',
+    'floating-chat.donateButton.background-color': '#00b9fe',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
+
 ### About
 
 Hello random person! I want to share with you my newest creation, domiExecutor. domiExecutor is a Level 7+ Roblox Lua Executor as well as an Internal DLL Injector build entirely in Microsoft's WinForm .NET Framework. I made domiExecutor because i got sick of seeing all of the other absolute garbage ones out there that either give you a virus or require you to visit like 3 / 4 different ad sites to use them. It is based on Krnl API for you people who want to know.
