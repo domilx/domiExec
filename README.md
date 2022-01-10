@@ -3,15 +3,7 @@
 ![Language](https://img.shields.io/badge/language-C%23-blue)
 ![Framework](https://img.shields.io/badge/framework-WinForm%20.NET-blue)
 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('domidev', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Tip Me',
-    'floating-chat.donateButton.background-color': '#00b9fe',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D77RUZC)
 
 ### About
 
